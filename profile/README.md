@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Werkzeuge, die Studenten den Alltag erleichtern, vor allem an der TH Nürnberg Georg Simon Ohm.
+  Werkzeuge für den Studienalltag an der TH Nürnberg
 </p>
 
 ## Werkzeuge
